@@ -1,3 +1,7 @@
+name: Draintherain.com
+favicon: null
+layout_spectrum: 0.4720258
+typography_spectrum: 0.7781956
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Seamless Rain Gutters
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5556514
-  brandStrength: 0.0368753
-  lightness: 0.4294502
   brandColors:
     - '#060D1E'
     - '#8FA5BD'
     - '#394B5C'
     - '#FFEAC6'
     - '#C6B454'
+  brandStrength: 0.0368753
+  lightness: 0.4294502
+  saturation: 0.5556514
   rhythmicContrast: 0.539703
-typography_spectrum: 0.7781956
-layout_spectrum: 0.4720258
-name: Draintherain.com
+purpose: []

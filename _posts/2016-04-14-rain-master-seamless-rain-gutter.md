@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 keywords:
   - gutters
@@ -23,34 +23,34 @@ keywords:
 description: "Sacramento's Best Rain Gutter Company"
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
+  - app_store_id: '544007664'
+    namespace: ai
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
     type: ios
-    namespace: ai
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
+    namespace: ai
+    url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
     type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
     type: ipad
     name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=ydjlQnrjxGg&feature=applinks'
     type: iphone
     name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=ydjlQnrjxGg'
+  - id: com.google.android.youtube
     namespace: twitter
+    url: 'https://www.youtube.com/watch?v=ydjlQnrjxGg'
     type: googleplay
     name: YouTube
-    id: com.google.android.youtube
   - path: http/www.youtube.com/watch?v=ydjlQnrjxGg
     package: com.google.android.youtube
     namespace: google
@@ -61,10 +61,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ydjlQnrjxGg'
 title: Rain Master Seamless Rain Gutter
-datePublished: '2016-04-14T16:36:04.621Z'
-dateModified: '2016-04-14T16:27:55.113Z'
+datePublished: '2016-04-14T20:32:45.519Z'
+dateModified: '2016-04-14T20:32:36.537Z'
 sourcePath: _posts/2016-04-14-rain-master-seamless-rain-gutter.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.8432836
+  saturation: 1
   brandStrength: 0.5
-  lightness: 0.625
+  lightness: 0.01235228
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#909090'
     - '#5b5b5b'
     - '#da2418'
-  rhythmicContrast: 0.8246269
+  rhythmicContrast: 0.07465091
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Rain Master Seamless Rain Gutters
 favicon: null
+name: Rain Master Seamless Rain Gutters
 opengraph:
   image: null
   type: null

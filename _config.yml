@@ -1,41 +1,41 @@
-name: Rain Master Seamless Rain Gutters
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7781956
+title: '" Putting Rain in the Drain "'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: '" Putting Rain in the Drain "'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.8432836
+  brandStrength: 0.5
+  lightness: 0.625
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#909090'
     - '#5b5b5b'
     - '#da2418'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.8246269
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Rain Master Seamless Rain Gutters
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7781956
+layout_spectrum: 1
